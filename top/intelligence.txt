@@ -1,1 +1,1 @@
-deepseek-ai/deepseek-v4-pro-0813
+nvidia/ising-calibration-1.5-31b

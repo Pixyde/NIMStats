@@ -1,16 +1,16 @@
 {
-  "best_model": "deepseek-ai/deepseek-v4-pro-0813",
-  "provider": "deepseek-ai",
-  "score": 67,
-  "intelligence": 53.2,
+  "best_model": "nvidia/ising-calibration-1.5-31b",
+  "provider": "nvidia",
+  "score": 65,
+  "intelligence": null,
   "uptime": 100.0,
-  "avg_response_time_ms": 70970.8125,
-  "best_response_time_ms": 14226,
-  "avg_time_to_first_token_ms": 29808.2,
-  "avg_throughput_tps": 12.6,
-  "total_runs": 16,
-  "success_count": 16,
+  "avg_response_time_ms": 8120.294117647059,
+  "best_response_time_ms": 1065,
+  "avg_time_to_first_token_ms": 6082.2,
+  "avg_throughput_tps": 25.8,
+  "total_runs": 17,
+  "success_count": 17,
   "wins": 0,
-  "last_seen": "2026-09-04T20:35:11Z",
-  "generated_at": "2026-09-04T20:46:27Z"
+  "last_seen": "2026-09-04T22:54:48Z",
+  "generated_at": "2026-09-04T23:05:52Z"
 }
