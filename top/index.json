@@ -1,16 +1,16 @@
 {
-  "best_model": "nvidia/riva-translate-4b-instruct-v2",
-  "provider": "nvidia",
+  "best_model": "google/diffusiongemma-26b-a4b-it",
+  "provider": "google",
   "score": 70,
-  "intelligence": null,
-  "uptime": 100.0,
-  "avg_response_time_ms": 645.8717948717949,
-  "best_response_time_ms": 363,
-  "avg_time_to_first_token_ms": 327.1,
-  "avg_throughput_tps": 41.1,
-  "total_runs": 39,
+  "intelligence": 7.6,
+  "uptime": 97.5,
+  "avg_response_time_ms": 12490.71794871795,
+  "best_response_time_ms": 853,
+  "avg_time_to_first_token_ms": 11895.4,
+  "avg_throughput_tps": 150.9,
+  "total_runs": 40,
   "success_count": 39,
-  "wins": 1,
-  "last_seen": "2026-09-08T07:06:28Z",
-  "generated_at": "2026-09-08T07:35:19Z"
+  "wins": 0,
+  "last_seen": "2026-09-08T12:45:33Z",
+  "generated_at": "2026-09-08T13:09:39Z"
 }
