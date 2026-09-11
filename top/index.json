@@ -1,16 +1,16 @@
 {
   "best_model": "nvidia/riva-translate-4b-instruct-v2",
   "provider": "nvidia",
-  "score": 70,
+  "score": 71,
   "intelligence": null,
   "uptime": 100.0,
-  "avg_response_time_ms": 853.7857142857143,
+  "avg_response_time_ms": 848.2105263157895,
   "best_response_time_ms": 363,
-  "avg_time_to_first_token_ms": 555.8,
-  "avg_throughput_tps": 39.0,
-  "total_runs": 56,
-  "success_count": 56,
+  "avg_time_to_first_token_ms": 551.8,
+  "avg_throughput_tps": 38.9,
+  "total_runs": 57,
+  "success_count": 57,
   "wins": 1,
-  "last_seen": "2026-09-11T03:59:34Z",
-  "generated_at": "2026-09-11T04:19:59Z"
+  "last_seen": "2026-09-11T08:51:45Z",
+  "generated_at": "2026-09-11T09:13:32Z"
 }
