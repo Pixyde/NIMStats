@@ -3,14 +3,14 @@
   "provider": "google",
   "score": 94,
   "intelligence": 9.5,
-  "uptime": 93.7,
-  "avg_response_time_ms": 17787.13559322034,
+  "uptime": 93.8,
+  "avg_response_time_ms": 18875.416666666668,
   "best_response_time_ms": 853,
-  "avg_time_to_first_token_ms": 17146.3,
-  "avg_throughput_tps": 125.7,
-  "total_runs": 63,
-  "success_count": 59,
+  "avg_time_to_first_token_ms": 18234.9,
+  "avg_throughput_tps": 123.7,
+  "total_runs": 64,
+  "success_count": 60,
   "wins": 0,
-  "last_seen": "2026-09-12T09:07:56Z",
-  "generated_at": "2026-09-12T09:25:22Z"
+  "last_seen": "2026-09-12T13:28:21Z",
+  "generated_at": "2026-09-12T13:50:07Z"
 }
