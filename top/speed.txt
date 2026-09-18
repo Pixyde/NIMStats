@@ -1,1 +1,1 @@
-google/diffusiongemma-26b-a4b-it
+openai/gpt-oss-20b
