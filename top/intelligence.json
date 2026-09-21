@@ -1,16 +1,16 @@
 {
-  "best_model": "nvidia/ising-calibration-1.5-31b",
+  "best_model": "nvidia/llama-3.1-nemotron-safety-guard-8b-v3",
   "provider": "nvidia",
   "score": 65,
   "intelligence": null,
   "uptime": 99.1,
-  "avg_response_time_ms": 9354.315789473685,
-  "best_response_time_ms": 1049,
-  "avg_time_to_first_token_ms": 7518.4,
-  "avg_throughput_tps": 27.9,
-  "total_runs": 115,
-  "success_count": 114,
-  "wins": 0,
-  "last_seen": "2026-09-21T04:46:25Z",
-  "generated_at": "2026-09-21T05:00:57Z"
+  "avg_response_time_ms": 2821.3739130434783,
+  "best_response_time_ms": 313,
+  "avg_time_to_first_token_ms": 2240.5,
+  "avg_throughput_tps": 12.6,
+  "total_runs": 116,
+  "success_count": 115,
+  "wins": 6,
+  "last_seen": "2026-09-21T10:32:48Z",
+  "generated_at": "2026-09-21T10:47:14Z"
 }
