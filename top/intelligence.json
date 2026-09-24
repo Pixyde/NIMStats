@@ -1,16 +1,16 @@
 {
-  "best_model": "nvidia/llama-3.1-nemotron-safety-guard-8b-v3",
+  "best_model": "nvidia/riva-translate-4b-instruct-v2",
   "provider": "nvidia",
   "score": 65,
   "intelligence": null,
-  "uptime": 98.5,
-  "avg_response_time_ms": 3176.9615384615386,
-  "best_response_time_ms": 313,
-  "avg_time_to_first_token_ms": 2612.7,
-  "avg_throughput_tps": 12.9,
-  "total_runs": 132,
-  "success_count": 130,
-  "wins": 7,
-  "last_seen": "2026-09-24T09:47:25Z",
-  "generated_at": "2026-09-24T09:59:12Z"
+  "uptime": 100.0,
+  "avg_response_time_ms": 2771.0751879699246,
+  "best_response_time_ms": 360,
+  "avg_time_to_first_token_ms": 2484.9,
+  "avg_throughput_tps": 30.5,
+  "total_runs": 133,
+  "success_count": 133,
+  "wins": 1,
+  "last_seen": "2026-09-24T14:46:39Z",
+  "generated_at": "2026-09-24T15:06:50Z"
 }
