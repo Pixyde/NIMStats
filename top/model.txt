@@ -1,1 +1,1 @@
-google/diffusiongemma-26b-a4b-it
+nvidia/ising-calibration-1.5-31b
