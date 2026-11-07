@@ -1,1 +1,1 @@
-google/diffusiongemma-26b-a4b-it
+nvidia/riva-translate-4b-instruct-v2

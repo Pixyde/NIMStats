@@ -1,16 +1,16 @@
 {
-  "best_model": "nvidia/ising-calibration-1.5-31b",
+  "best_model": "nvidia/riva-translate-4b-instruct-v2",
   "provider": "nvidia",
   "score": 65,
   "intelligence": null,
-  "uptime": 99.1,
-  "avg_response_time_ms": 14540.288288288288,
-  "best_response_time_ms": 958,
-  "avg_time_to_first_token_ms": 11639.6,
-  "avg_throughput_tps": 26.6,
-  "total_runs": 336,
-  "success_count": 333,
-  "wins": 0,
-  "last_seen": "2026-11-07T18:33:54Z",
-  "generated_at": "2026-11-07T18:39:34Z"
+  "uptime": 99.4,
+  "avg_response_time_ms": 13397.220895522389,
+  "best_response_time_ms": 360,
+  "avg_time_to_first_token_ms": 13064.0,
+  "avg_throughput_tps": 19.9,
+  "total_runs": 337,
+  "success_count": 335,
+  "wins": 10,
+  "last_seen": "2026-11-07T22:35:59Z",
+  "generated_at": "2026-11-07T23:06:44Z"
 }
