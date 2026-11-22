@@ -1,1 +1,1 @@
-nvidia/riva-translate-4b-instruct-v2
+nvidia/ising-calibration-1.5-31b
